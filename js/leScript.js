@@ -16,7 +16,7 @@ $.getJSON('http://hipsterjesus.com/api/', function(data) {
           });
 
 //Expand the textarea on clicking on it
-$(textarea).focus(function()
+$('textarea').focus(function()
               {
                  $(this).animate({'height': '185px'}, 'slow' );
                  return false;
