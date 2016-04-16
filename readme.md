@@ -1,5 +1,5 @@
 # JavaScript === life;
-![JavaScript](img/sha.jpg)
+![JavaScript](img/losh_pop_art.jpg)
 This is the repository for my first Git project
 - [Demo Website](http://syqs.github.io)
 
