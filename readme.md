@@ -4,7 +4,8 @@ This is the repository for my first Git project
 - [Demo Website](http://syqs.github.io)
 
 ## Project Description
-Hack Reactor - Week 0 Project - Personal website on Bootstrap and jQuery
+Hack Reactor - Week 0 Master Project - Personal website on using HTML and CSS
+spiced with Bootstrap and jQuery. This project is a combination of all exercises in the Week 0
 
 ## Examples include:
 - Conecting to simple JSON api
