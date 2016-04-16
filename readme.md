@@ -10,3 +10,5 @@ Hack Reactor - Week 0 Project - Personal website on Bootstrap and jQuery
 - Conecting to simple JSON api
 - Storing html data as value in the JavaScript object
 - Executing some JS functions
+
+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>
