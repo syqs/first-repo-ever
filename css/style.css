@@ -51,6 +51,7 @@ background-color: #f0f0f0;
 input[type="textarea"] {
   font-size: 28px;
 }
+label {font-familiy:arial,sans-serif}
 .checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] {
     position: absolute;
     margin-top: 4px\9;
