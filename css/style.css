@@ -18,8 +18,6 @@ header {
 .section1 {
   margin-top:170px;
 }
-.main {height: 800px;
-background-color: #f0f0f0;}
 
 .left {
     position: fixed;
@@ -32,6 +30,9 @@ background-color: #f0f0f0;}
   width: 100%;
   text-decoration: none;
 }
+.main {height: 800px;
+background-color: #f0f0f0;
+}
 
 .container {
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#a90329+0,8f0222+44,6d0019+100;Brown+Red+3D */
@@ -40,7 +41,10 @@ background-color: #f0f0f0;}
   background: -webkit-linear-gradient(45deg,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(45deg,  #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
 
+.page {
+  padding-bottom: 100px;
 }
 /*form and friends */
 input[type="textarea"] {
